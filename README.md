@@ -1,4 +1,4 @@
-# DataAnalysis
+# Data Analysis
 
 ## Exploratory Analysis
 [Exploratory Data Analysis](https://github.com/behAIvNET/DataAnalysis/tree/main/EDA)
